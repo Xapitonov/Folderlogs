@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Folderlogs</string>
+    <string name="folders">Папки</string>
+    <string name="add_folder">Добавить папку</string>
+    <string name="added">Добавлено</string>
+    <string name="folder_uri">Путь к папке</string>
+    <string name="remove_folder">Удалить папку</string>
+    <string name="logs">Протоколы</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="theme_configuration">Конфигурация темы</string>
+    <string name="auto_scan">Автоматическое фоновое сканирование</string>
+    <string name="every_minutes">Приблизительно каждые (минуты)</string>
+    <string name="about">О программе</string>
+    <string name="search">Поиск</string>
+    <string name="manual_scan">Сканировать сейчас</string>
+    <string name="scanning">Сканирование</string>
+    <string name="detected_changes">Обнаруженные изменения</string>
+    <string name="detected_new_change">Обнаружено новое изменение</string>
+    <string name="no_change_at">Изменений нет</string>
+    <string name="error">Ошибка</string>
+    <string name="service_error">Ошибка сервиса</string>
+    <string name="delete_logs">Удалить протоколы</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="yes_delete_logs">Да, удалить протоколы</string>
+    <string name="yes_remove_folder">Да, удалить папку</string>
+    <string name="no_dont_delete_logs">Нет, не удалять журналы</string>
+    <string name="no_dont_remove_folder">Нет, не удалять папку</string>
+    <string name="deleted">Удалено.</string>
+    <string name="removed">Удалено.</string>
+    <string name="new_change">Новое изменение</string>
+    <string name="new_change_notification">Уведомление о новом изменении</string>
+    <string name="no_change">Без изменений</string>
+    <string name="no_change_notification">Уведомление о 0 изменениях</string>
+    <string name="Service_error">Ошибка сервиса</string>
+    <string name="Service_error_notification">Уведомление об ошибке сервиса</string>
+    <string name="scan_process">Процесс сканирования</string>
+    <string name="scan_process">Процесс сканирования</string>  
+    <string name="scan_process_in_background">Процесс сканирования в фоновом режиме</string>  
+    <string name="file">Файл</string>  
+    <string name="folder">Папка</string>  
+    <string name="size">Размер</string>  
+    <string name="bytes">байт</string>  
+    <string name="date">Дата</string>  
+    <string name="Close">Закрыть</string>  
+    <string name="copy_hash">Копировать хеш</string>  
+    <string name="select_hash">Выбрать хеш</string>  
+    <string name="select_sha">Выбрать SHA</string>  
+    <string name="more">Больше</string>  
+    <string name="md5">MD5</string>  
+    <string name="sha">SHA-?</string>  
+    <string name="sha1">SHA-1</string>  
+    <string name="sha256">SHA-256</string>  
+    <string name="sha512">SHA-512</string>  
+    <string name="copied">Скопировано.</string>  
+    <string name="New">[Новый!]</string>  
+    <string name="Modified">[Изменён]</string>  
+    <string name="Deleted">[Удалён]</string>  
+    <string name="ERROR">[ОШИБКА ДОСТУПА!]</string>  
+    <string name="license">Лицензия</string>  
+    <string name="version">Версия</string>  
+    <string name="debug">Отладка</string>  
+    <string name="log_start_time_stamp">Временная метка начала журнала</string>  
+    <string name="loading">Загрузка</string>  
+    <string name="this_program_is_free_software">
+    Данное ПО является свободным: вы можете распространять и/или изменять
+    его в соответствии с условиями GNU General Public License, опубликованной
+    Фондом свободного ПО, либо версии 3 лицензии, либо
+    (по вашему выбору) любой следующей версии.
+
+    Данное ПО распространяется в надежде, что оно окажется полезным,
+    но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+    товарной ценности или пригодности для конкретной цели. См.
+    GNU General Public License для получения дополнительных сведений.
+	</string>
+
+</resources>
